@@ -20,8 +20,8 @@ Loyihani sozlash uchun quyidagi buyruqlarni ketma-ket bajaring:
 
 **1. Repositoryni Klonlash**
 ```bash
-    git clone <repository-url>
-    cd student_management
+    git clone https://github.com/theNodirjon/DrF_haqida.git
+    cd DDrF_haqida
 ```
 **2. Virtual muhitni yaratish va ishga tushirish**
 ```bash
